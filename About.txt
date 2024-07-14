@@ -1,0 +1,15 @@
+Name: Ritchey Reciprocal License
+Version: 5
+Long Identifier: Ritchey Reciprocal License v5
+Short Identifier: RRLv5
+Description: A share-a-like license.
+History:
+ - Version 1 completed.
+ - Version 2 completed.
+ - Version 3 completed.
+ - Version 4 completed.
+ - Version 5 completed July 14, 2024.
+Author:James Daniel Marrs Ritchey
+Licensing: This project is hereby licensed under the terms of the Ritchey Reciprocal License v5 license.
+Notes:
+- 
