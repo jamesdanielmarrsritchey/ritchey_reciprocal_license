@@ -1,7 +1,7 @@
 Name: Ritchey Reciprocal License
-Version: 6
-Long Identifier: Ritchey Reciprocal License v6
-Short Identifier: RRLv6
+Version: 7
+Long Identifier: Ritchey Reciprocal License v7
+Short Identifier: RRLv7
 Description: A share-a-like license.
 History:
  - Version 1 completed.
@@ -10,7 +10,8 @@ History:
  - Version 4 completed.
  - Version 5 completed July 14, 2024.
  - Version 6 completed July 15, 2024.
+ - Version 7 completed December 22, 2024.
 Author:James Daniel Marrs Ritchey
-Licensing: This project is hereby licensed under the Ritchey Reciprocal License v6 license.
+Licensing: This project is hereby licensed under the Ritchey Reciprocal License v7 license.
 Notes:
 - 
